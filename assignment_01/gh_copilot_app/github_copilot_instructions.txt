@@ -1,0 +1,30 @@
+Writing Functions and Code: 
+
+In python, create an application that calls the OpenAI ChatGPT rest API. 
+The application should prompt the user for input. 
+The application then should use that input and make a REST call to the OpenAI ChatGPT API. 
+Afterwards, the CLI should display ChatGPTs response then ask the user if they want to continue. 
+If the user responds with 'y', prompt the user for another input. 
+If the user responds 'n', end the session.
+
+
+Writing Functions and Code: 
+
+Can you put all the REST Call code into it's own function called call_chat_gpt?
+
+
+Refactoring Code: 
+
+Can you refactor the code with comments explaining what the function call_chat_gpt does?
+
+
+Creating Unit Tests: 
+
+Create unit tests to test this functionality. There should be statements declaring whether the unit test was successful or not.
+
+
+Create an application: 
+
+Build a tic-tac-toe game in python. 
+There should be a display of the current game state. 
+Make sure you use separate functions to check if a player wins by column, row, or diagonal. 
