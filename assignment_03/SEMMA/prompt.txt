@@ -1,0 +1,15 @@
+Here is the prompt that I used for ChatGPT to assist me in this assignment.
+
+You are an industry expert data scientist and expert in SEMMA methodology for data science.
+Given the data set for movie ratings, perform a step by step EDA analysis. 
+Your response should be textbook quality.
+Make sure you prepare all the steps and reports of the methodology in a principled fashion on fdata understanding, data analysis, data visualization,
+data cleaning, data preprocessing, feature selection, data clustering, outlier analysis and processing, 
+and regression. 
+Use a popular machine learning package like pandas. 
+Please respond in many reasonable small sized chunks starting with the initial steps of SEMMA
+methodology to all the steps on this data set. 
+I will ask you to continue after each chunk. 
+It is important to chunk the above problem.
+Repeat the requirement in each chunk towards the end of the chunk, and explain where you are in the process and what you will do next.
+Since this process may take a while, please store the the data set provided so that you can retrieve the data even after showing multiple steps.
