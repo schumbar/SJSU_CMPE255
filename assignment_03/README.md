@@ -52,3 +52,21 @@ https://www.ilovephd.com/chatgpt-write-scientific-research-paper/Links to an ext
 https://drasmajabeen.com/chatgpt-for-scientific-research-paper-writing/Links to an external site.
 
  
+
+ ### Project Deliverables
+Please note that all project deliverables are located within the following folder within the GitHub repository for this assignment: `assignment_03`. Please see below for the various files associated with this assignment:
+1. `README.md` - This file contains the assignment prompt and details about this assignment.
+2. `CRISP-DM` - This folder contains the CRISP-DM project.
+    a. `CRISP-DM.ipynb` - This file contains the CRISP-DM google colab project.
+    b. `ds_salaries.csv` - This CSV file is the dataset that was used for the CRIISP-DM portion of this assignment. 
+3. `SEMMA` - This folder contains the SEMMA project.
+    a. `SEMMA.ipynb` - This file contains the SEMMA google colab project.
+    b. `used_cars.csv` - This CSV file is the dataset that was used for the SEMMA portion of this assignment.
+4. `KDD` - This folder contains the KDD project.
+    a. `KDD.ipynb` - This file contains the KDD google colab project.
+    b. `REPLACE_ME.csv` - This CSV file is the dataset that was used for the KDD portion of this assignment.
+
+ ### Medium Articles
+
+ ### Research Papers
+
