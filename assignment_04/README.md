@@ -77,9 +77,11 @@ This script signifies just the start of the extensive capabilities Apache Beam o
 ### Project Deliverables
 All project deliverables for this assignment is located under the `assignment_04` folder. The deliverables include:
 1. **README.md**: This file which contains information about the assignment and deliverables.
-2. **CMPE255_assignment_04.ipynb**: File containing code for the assignment. This includes parts a, b and c.
-3. **Datasets/childcare_costs.csv**: Dataset used for the Exploratory Data Analysis portion of the assignment.
-4. **Datasets/counties.csv**: Dataset used for the Exploratory Data Analysis portion of the assignment. This is a part of the childcare_costs dataset.
-5. **Datasets/steam_games.csv**: Dataset used for the AutoEDA portion of the assignment.
-6. **Datasets/insurance.csv**: Dataset used for the Apache Beam portion of the assignment.
-7. **Datasets/output.csv-00000-of-00001**: Output as a result of running the Apache Beam pipeline.
+2. **A_EDA/childcare_costs.csv**: Dataset used for the Exploratory Data Analysis portion of the assignment.
+3. **A_EDA/counties.csv**: Dataset used for the Exploratory Data Analysis portion of the assignment. This is a part of the childcare_costs dataset.
+4. **B_AutoEDA/steam_games.csv**: Dataset used for the AutoEDA portion of the assignment.
+5. **C_ApacheBeam/insurance.csv**: Dataset used for the Apache Beam portion of the assignment.
+6. **C_ApacheBeam/output.csv-00000-of-00001**: Output as a result of running the Apache Beam pipeline.
+7. **A_EDA/Part_A_EDA.ipynb**: Google Colab notebook for the Exploratory Data Analysis portion of the assignment.
+8. **B_AutoEDA/Part_B_AutoEDA.ipynb**: Google Colab notebook for the AutoEDA portion of the assignment.
+9. **C_ApacheBeam/Part_C_ApacheBeam.ipynb**: Google Colab notebook for the Apache Beam portion of the assignment.
