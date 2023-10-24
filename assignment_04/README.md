@@ -44,6 +44,8 @@ Drawing Insights and Conclusions:
 Lastly, I made sure to transcend mere data manipulation and technical analysis. By interpreting the statistical summaries, cleaned data, and visual elements, I converted complex analyses into digestible insights and conclusions. This step was paramount in my EDA, as it transformed the numerical and categorical analyses into tangible, understandable insights.
 In summary, this portion of the assignment was an exhaustive EDA exercise, showcasing various facets such as data cleaning, transformation, analysis, visualization, and interpretation, all set within the realm of Steam games data. Through this rigorous process, I sought to gain a holistic understanding of the data's nuances, trends, and potential areas for further statistical scrutiny or predictive modeling.
 
+Lastly, the output of this section can be seen in the sweet-viz report HTML file located on my github repository. 
+
 ### Part C: Apache Beam
 Environment Setup: I started by installing the necessary package, 'apache_beam', which is essential for creating data processing pipelines. Using this, I can build scalable and efficient data processing tasks.
 
