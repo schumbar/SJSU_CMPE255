@@ -84,4 +84,5 @@ All project deliverables for this assignment is located under the `assignment_04
 6. **C_ApacheBeam/output.csv-00000-of-00001**: Output as a result of running the Apache Beam pipeline.
 7. **A_EDA/Part_A_EDA.ipynb**: Google Colab notebook for the Exploratory Data Analysis portion of the assignment.
 8. **B_AutoEDA/Part_B_AutoEDA.ipynb**: Google Colab notebook for the AutoEDA portion of the assignment.
-9. **C_ApacheBeam/Part_C_ApacheBeam.ipynb**: Google Colab notebook for the Apache Beam portion of the assignment.
+9. **B_AutoEDA/sweetviz_report.html**: HTML file containing the output of running the sweetviz library on the steam_games dataset.
+10. **C_ApacheBeam/Part_C_ApacheBeam.ipynb**: Google Colab notebook for the Apache Beam portion of the assignment.
