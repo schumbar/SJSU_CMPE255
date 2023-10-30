@@ -30,17 +30,14 @@ Please see below for the list of project deliverables for this assignment. Pleas
 3. [`assignment_05/b_timeseries_data.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/b_timeseries_data.ipynb): Google Colab notebook for working with time series data.
 4. [`assignment_05/c_spatio_temporal_data.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/c_spatio_temporal_data.ipynb): Google Colab notebook for working with spatio-temporal data.
 5. [`assignment_05/d_image.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/d_image.ipynb): Google Colab notebook for working with image data.
-6. [`assignment_05/e_audio.ipynb`](REPLACEME): Google Colab notebook for working with audio data.
+6. [`assignment_05/e_audio.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/e_audio.ipynb): Google Colab notebook for working with audio data.
 7. [`assignment_05/f_video_data.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/f_video_data.ipynb): Google Colab notebook for working with video data.
 8. [`assignment_05/g_graph_data.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/g_graph_data.ipynb): Google Colab notebook for working with graph data.
+9. [`Medium Article`](https://google.com): Medium article for this assignment.
 
 
 # ChatGPT Prompts:
-### Prompt for ChatGPT - Task 1: Loading Data and Preliminary Inspection
-
-"Please provide a Python script that I can run in a Google Colab notebook. This script should do the following:
-
-
+Please see below for the ChatGPT Prompts that I used for this assignment to assist me on this journey. 
 
 # ChatGPT Prompts:
 ### Prompt for ChatGPT - Task 1: Loading Data and Preliminary Inspection
