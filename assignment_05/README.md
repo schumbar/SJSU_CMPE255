@@ -33,7 +33,7 @@ Please see below for the list of project deliverables for this assignment. Pleas
 6. [`assignment_05/e_audio.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/e_audio.ipynb): Google Colab notebook for working with audio data.
 7. [`assignment_05/f_video_data.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/f_video_data.ipynb): Google Colab notebook for working with video data.
 8. [`assignment_05/g_graph_data.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_05/g_graph_data.ipynb): Google Colab notebook for working with graph data.
-9. [`Medium Article`](https://google.com): Medium article for this assignment.
+9. [`Medium Article`](https://medium.com/@shawn.chumbar/exploring-cleaning-and-modeling-a-journey-through-diverse-data-sets-cf4a74ed99dd): Medium article for this assignment.
 
 
 # ChatGPT Prompts:
