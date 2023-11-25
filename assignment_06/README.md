@@ -6,7 +6,7 @@ This assignment involves implementing various clustering algorithms using Google
 
 ### Tasks
 
-**a) K-Means Clustering from Scratch**
+a) K-Means Clustering from Scratch
 
 - Implement K-Means clustering from scratch.
 - Hints:
@@ -14,17 +14,17 @@ This assignment involves implementing various clustering algorithms using Google
   - [K-Means from Scratch Colab 2](https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
   - [K-Means with Supervised Similarity Colab](https://colab.sandbox.google.com/github/google/eng-edu/blob/main/ml/clustering/clustering-supervised-similarity.ipynb?utm_source=ss-clustering&utm_campaign=colab-external&utm_medium=referral&utm_content=clustering-supervised-similarity#scrollTo=eExms-TP8Hn6)
 
-**b) Hierarchical Clustering (Not from Scratch)**
+b) Hierarchical Clustering (Not from Scratch)
 
 - Implement Hierarchical clustering.
 - Hint: [Hierarchical Clustering Colab](https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python-summer-2019/blob/master/clustering.ipynb)
 
-**c) Gaussian Mixture Models Clustering (Not from Scratch)**
+c) Gaussian Mixture Models Clustering (Not from Scratch)
 
 - Implement Gaussian Mixture Models clustering.
 - Hint: [Gaussian Mixture Models Colab](https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
 
-**d) DB Scan Clustering (Not from Scratch) using PyCaret Library**
+d) DB Scan Clustering (Not from Scratch) using PyCaret Library
 
 - Implement DB Scan clustering using the PyCaret library.
 - Hints:
@@ -32,14 +32,14 @@ This assignment involves implementing various clustering algorithms using Google
   - [DB Scan with PyCaret Tutorial](https://towardsdatascience.com/clustering-made-easy-with-pycaret-656316c0b080)
   - [PyCaret Clustering Tutorial](http://www.pycaret.org/tutorials/html/CLU101.html)
 
-**e) Demonstrate Anomaly Detection using PyOD with Any Usecase**
+e) Demonstrate Anomaly Detection using PyOD with Any Usecase
 
 - Implement anomaly detection using PyOD for either univariate or multivariate data.
 - Hints:
   - [Anomaly Detection in Time Series](https://neptune.ai/blog/anomaly-detection-in-time-series)
   - [Anomaly Detection Colab](https://github.com/ritvikmath/Time-Series-Analysis/blob/master/Anomaly%20Detection.ipynb)
 
-**f) Illustrate Clustering of Time Series Data using Pretrained Models**
+f) Illustrate Clustering of Time Series Data using Pretrained Models
 
 - Illustrate clustering of time series data using pretrained models.
 - Hints:
@@ -49,7 +49,7 @@ This assignment involves implementing various clustering algorithms using Google
   - [Time Series Clustering Colab 4](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
   - [More Time Series Clustering Resources](https://github.com/cure-lab/Awesome-time-series#time-series-clustering)
 
-**g) Write a Colab to Illustrate Clustering of Documents using State-of-the-Art Embeddings (LLM Embeddings)**
+g) Write a Colab to Illustrate Clustering of Documents using State-of-the-Art Embeddings (LLM Embeddings)
 
 - Illustrate clustering of documents using state-of-the-art embeddings.
 - Hints:
@@ -59,7 +59,7 @@ This assignment involves implementing various clustering algorithms using Google
   - [Document Clustering with Word2Vec](https://dylancastillo.co/nlp-snippets-cluster-documents-using-word2vec/)
   - [Text Clustering Colab](https://github.com/Ruchi2507/Text-Clustering)
 
-**h) Write a Colab for Clustering with Images using Imagebind LLM Embeddings**
+h) Write a Colab for Clustering with Images using Imagebind LLM Embeddings
 
 - Implement clustering with images using Imagebind LLM embeddings.
 - Hints:
@@ -67,7 +67,7 @@ This assignment involves implementing various clustering algorithms using Google
   - [Introduction to Embedding Clustering and Similarity](https://towardsdatascience.com/introduction-to-embedding-clustering-and-similarity-11dd80b00061)
   - [Using OpenAI Embeddings for Search Clustering](https://cobusgreyling.medium.com/using-openai-embeddings-for-search-clustering-83840e971e97)
 
-**i) Write a Colab for Audio Embeddings using Imagebind LLMs**
+i) Write a Colab for Audio Embeddings using Imagebind LLMs
 
 - Create a Colab for audio embeddings using Imagebind LLMs.
 - Hints:
