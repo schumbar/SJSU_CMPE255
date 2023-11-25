@@ -4,6 +4,30 @@
 
 This assignment involves implementing various clustering algorithms using Google Colab and making use of the latest GPT-4 capabilities. Each task corresponds to a specific clustering algorithm or technique, and you are required to submit one Colab notebook per assignment. Ensure that each Colab notebook is complete with proper documentation and explanations.
 
+## Assignment Deliverables
+
+Please see below for the list of project deliverables for this assignment. Please note that all deliverables are located within the `assignment_06` directory of the repository:
+
+1. [`assignment_06/README.md`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/README.md): README.md file containing assignment description and a list of deliverables.
+
+2. [`assignment_06/a_kmeans_clustering_from_scratch.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/a_kmeans_clustering_from_scratch.ipynb): Google Colab notebook for K-Means clustering from scratch.
+
+3. [`assignment_06/b_hierarchical_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/b_hierarchical_clustering.ipynb): Google Colab notebook for Hierarchical clustering.
+
+4. [`assignment_06/c_gaussian_mixture_models_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/c_gaussian_mixture_models_clustering.ipynb): Google Colab notebook for Gaussian Mixture Models clustering.
+
+5. [`assignment_06/d_DB_scan_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/d_DB_scan_clustering.ipynb): Google Colab notebook for DB Scan clustering using PyCaret library.
+
+6. [`assignment_06/e_anomaly_detection_pyOD.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/e_anomaly_detection_pyOD.ipynb): Google Colab notebook for demonstrating anomaly detection using pyOD.
+
+7. [`assignment_06/f_timeseries_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/f_timeseries_clustering.ipynb): Google Colab notebook for illustrating clustering of time series data using pretrained models.
+
+8. [`assignment_06/g_documents_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/g_documents_clustering.ipynb): Google Colab notebook for clustering of documents using state-of-the-art embeddings.
+
+9. [`assignment_06/h_clustering_images.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/h_clustering_images.ipynb): Google Colab notebook for clustering with images using Imagebind LLM embeddings.
+
+10. [`assignment_06/i_audio_embeddings_using_imagebind_llms.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/i_audio_embeddings_using_imagebind_llms.ipynb): Google Colab notebook for audio embeddings using Imagebind LLMs.
+
 ### Tasks
 
 a) K-Means Clustering from Scratch
@@ -78,26 +102,3 @@ i) Write a Colab for Audio Embeddings using Imagebind LLMs
 
 Please ensure that you provide proper measures of clustering quality for each task. Refer to the attached Colabs for examples and use them as inspiration for your assignments.
 
-## Project Deliverables
-
-Please see below for the list of project deliverables for this assignment. Please note that all deliverables are located within the `assignment_06` directory of the repository:
-
-1. [`assignment_06/README.md`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/README.md): README.md file containing assignment description and a list of deliverables.
-
-2. [`assignment_06/a_kmeans_clustering_from_scratch.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/a_kmeans_clustering_from_scratch.ipynb): Google Colab notebook for K-Means clustering from scratch.
-
-3. [`assignment_06/b_hierarchical_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/b_hierarchical_clustering.ipynb): Google Colab notebook for Hierarchical clustering.
-
-4. [`assignment_06/c_gaussian_mixture_models_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/c_gaussian_mixture_models_clustering.ipynb): Google Colab notebook for Gaussian Mixture Models clustering.
-
-5. [`assignment_06/d_DB_scan_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/d_DB_scan_clustering.ipynb): Google Colab notebook for DB Scan clustering using PyCaret library.
-
-6. [`assignment_06/e_anomaly_detection_pyOD.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/e_anomaly_detection_pyOD.ipynb): Google Colab notebook for demonstrating anomaly detection using pyOD.
-
-7. [`assignment_06/f_timeseries_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/f_timeseries_clustering.ipynb): Google Colab notebook for illustrating clustering of time series data using pretrained models.
-
-8. [`assignment_06/g_documents_clustering.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/g_documents_clustering.ipynb): Google Colab notebook for clustering of documents using state-of-the-art embeddings.
-
-9. [`assignment_06/h_clustering_images.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/h_clustering_images.ipynb): Google Colab notebook for clustering with images using Imagebind LLM embeddings.
-
-10. [`assignment_06/i_audio_embeddings_using_imagebind_llms.ipynb`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_06/i_audio_embeddings_using_imagebind_llms.ipynb): Google Colab notebook for audio embeddings using Imagebind LLMs.
