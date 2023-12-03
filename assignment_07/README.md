@@ -38,3 +38,6 @@ Hints:
 Please see below for the list of project deliverables for this assignment. Please note that all deliverables are located within the `assignment_07` directory of the repository:
 
 1. [`assignment_07/README.md`](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_07/README.md): README.md file containing assignment description and a list of deliverables.
+2. [a_dimensionality_reduction.ipynb](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_07/a_dimensionality_reduction.ipynb) : Colab notebook containing dimensionality reduction techniques for various data sets. This includes PCA, SVD, MDS, ISOMap, LLE, UMAP, and t-sne.
+3. [b_UMAP_t_sne.ipynb](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_07/b_UMAP_t_sne.ipynb): Colab notebook illustrating how dimensionality reduction technique like umap can be used followed by clustering as well as a classification feature extraction techniques.
+4. [c_dimensionality_reduction_databricks.ipynb](https://github.com/schumbar/SJSU_CMPE255/blob/main/assignment_07/c_dimensionality_reduction_databricks.ipynb): Colab notebook demonstrating dimensionality reduction using data bricks.
