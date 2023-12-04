@@ -1,0 +1,5 @@
+Hello, 
+You can find the link to my medium article below. 
+Please note that I did in fact use ChatGPT to generate portions of the medium article (not all of it, just some portions).
+
+https://medium.com/@shawn.chumbar/harnessing-chatgpt-for-data-science-a-deep-dive-with-spotify-data-37a28ec96e2d
